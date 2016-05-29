@@ -1,4 +1,4 @@
-# JVME-peer-review
+# Online Radiology training with peer-review
 Python scripts and sample data
 
 This material accompanies an  online radiology training module with peer review prepared for students at the University of Copenhagen.  
